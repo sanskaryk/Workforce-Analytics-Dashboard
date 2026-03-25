@@ -1,7 +1,9 @@
-# HR Analytics Dashboard 📊
+# Workforce Analytics Dashboard 📊
 
 ## 📌 Overview
-This project presents an interactive HR Analytics Dashboard created using Power BI. It provides insights into employee data, attrition trends, and workforce performance to support data-driven decision-making.
+This project presents an interactive HWorkforce Analytics Dashboard created using Power BI. It provides insights into employee data, attrition trends, and workforce performance to support data-driven decision-making.
+
+<img width="1305" height="737" alt="c" src="https://github.com/user-attachments/assets/131244e3-7915-431a-8947-743dd9351146" />
 
 ---
 
